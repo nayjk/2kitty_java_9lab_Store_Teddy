@@ -114,7 +114,6 @@ class User_one implements User{
         this.password=password;
     }
     public void username(){
-        //System.out.printf("Username: " + username +"     "+ "Login: " + login +"     "+ "Password: " + password);
         System.out.printf("Username: " + username + "     ");
     }
     public void login(){
@@ -134,7 +133,6 @@ class User_two implements User{
         this.password=password;
     }
     public void username(){
-        //System.out.printf("Username: " + username +"     "+ "Login: " + login +"     "+ "Password: " + password);
         System.out.printf("Username: " + username + "     ");
     }
     public void login(){
@@ -154,7 +152,6 @@ class User_three implements User{
         this.password=password;
     }
     public void username(){
-        //System.out.printf("Username: " + username +"     "+ "Login: " + login +"     "+ "Password: " + password);
         System.out.printf("Username: " + username + "     ");
     }
     public void login(){
